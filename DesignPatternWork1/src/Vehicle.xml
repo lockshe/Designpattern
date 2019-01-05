@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RESULT>
+<CLASS>
+	<NAME>Car</NAME>
+	<SPEED>60.0</SPEED>
+</CLASS>
+
+<CLASS>
+	<NAME>Ship</NAME>
+	<SPEED>30.0</SPEED>
+</CLASS>
+
+<CLASS>
+	<NAME>Airplane</NAME>
+	<SPEED>150.0</SPEED>
+</CLASS>
+<CLASS>
+	<NAME>Tank</NAME>
+	<SPEED>80.00</SPEED>
+</CLASS>
+</RESULT>
